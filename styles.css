@@ -45,4 +45,6 @@ header{
 .curso-titulo{
     justify-self: center;
 }
-
+.texto-um{
+    text-align: justify;
+}
