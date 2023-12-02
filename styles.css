@@ -36,7 +36,6 @@ header{
 }
 .container{
     background-color: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(180deg, rgba(2, 11, 90, 0.97) 0%, rgba(128, 92, 232, 0.39) 100%);
-    border: 2px solid white;
     padding: 100px;
     display:grid;
     grid-template-columns: 50% 50%;
