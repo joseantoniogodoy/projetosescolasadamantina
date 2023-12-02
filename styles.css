@@ -32,7 +32,7 @@ header{
 }
 .curso-titulo{
     color: white;
-    align-items: center;
+    text-align: center;
 }
 .container{
     background-color: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(180deg, rgba(2, 11, 90, 0.97) 0%, rgba(128, 92, 232, 0.39) 100%);
