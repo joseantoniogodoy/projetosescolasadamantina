@@ -41,7 +41,6 @@ header{
     display:grid;
     grid-template-columns: 50% 50%;
     height: auto;
-    gap: 5px;
 }
 .curso-titulo{
     justify-self: center;
