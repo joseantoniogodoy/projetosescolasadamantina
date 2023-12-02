@@ -41,7 +41,7 @@ header{
     display:grid;
     grid-template-columns: 50% 50%;
     height: auto;
-    text-align: left;
+    align-items: center;
 }
 .curso-titulo{
     justify-self: center;
