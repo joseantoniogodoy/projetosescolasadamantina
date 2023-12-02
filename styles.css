@@ -52,6 +52,7 @@ justify-content: center;
 }
 .texto-um{
     text-align: justify;
+    font: 200;
 }
 .texto-dois{
     text-align: justify;
