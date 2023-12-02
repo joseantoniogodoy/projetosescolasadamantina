@@ -53,6 +53,6 @@ header{
     text-align: justify;
 }
 .texto-tres{
-    text-align: left;
+    text-align: inherit;
 
 }
