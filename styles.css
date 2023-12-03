@@ -53,10 +53,11 @@ align-items: center;
 }
 .texto-um{
     text-align: justify;
-    font-size: x-large;
+    font-size:large;
 }
 .texto-dois{
     text-align: justify;
+    font-size: large;
 }
 .texto-tres{
     text-align: start;
