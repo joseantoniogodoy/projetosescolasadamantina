@@ -48,6 +48,8 @@ header{
 justify-content: space-around ;
 align-items: baseline;
 position: relative;
+top:auto
+
 }
 .curso-titulo{
     justify-self: center;
@@ -64,4 +66,5 @@ position: relative;
     text-align: start;
     font-size: x-large;
 }
+
 
