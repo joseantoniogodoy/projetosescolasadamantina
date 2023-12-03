@@ -47,6 +47,7 @@ header{
 .container div{
 justify-content: space-around ;
 align-items: baseline;
+position: relative;
 }
 .curso-titulo{
     justify-self: center;
