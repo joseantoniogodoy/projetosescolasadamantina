@@ -48,7 +48,8 @@ header{
 justify-content: space-around ;
 align-items: baseline;
 position: relative;
-top:auto
+top: 30px;
+left: 80px;
 
 }
 .curso-titulo{
