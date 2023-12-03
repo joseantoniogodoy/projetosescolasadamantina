@@ -64,5 +64,8 @@ align-items: center
     text-align: start;
     font-size: x-large;
 }
-
+.projeto-div{
+    text-align: center;
+    padding: 16px 0;
+}
 
