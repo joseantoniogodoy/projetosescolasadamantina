@@ -46,10 +46,7 @@ header{
 }
 .container div{
 justify-content: space-around ;
-align-items: baseline;
-position: relative;
-top: 30px;
-left: 80px;
+align-items: center
 
 }
 .curso-titulo{
