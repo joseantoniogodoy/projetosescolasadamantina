@@ -65,8 +65,8 @@ align-items: center
     font-size: x-large;
 }
 .projeto-div{
-    justify-self: center
     text-align: center;
+    justify-content: center;
     padding: 16px 0;
 }
 
