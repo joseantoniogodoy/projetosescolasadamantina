@@ -64,8 +64,7 @@ align-items: center
     text-align: start;
     font-size: x-large;
 }
-.projeto-titulo{
-    justify-self: center;
-    padding: 16px 0;
+.projeto-conteudo{
+    text-align: center;
 }
 
