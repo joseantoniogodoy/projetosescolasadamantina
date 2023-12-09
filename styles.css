@@ -67,4 +67,9 @@ align-items: center
 .projeto-conteudo{
     text-align: center;
 }
-
+.table{
+    width: 100%;
+}
+.td, th{
+    border: 1px solid black;
+}
