@@ -86,3 +86,6 @@ align-items: center
     vertical-align: middle;
     justify-content: space-around;
 }
+.td , th{
+    border: 1px solid black;
+}
