@@ -79,6 +79,7 @@ align-items: center
     color: white;
     text-align: center;
     align-items: center;
+    border-collapse: collapse;
 }
 .tbody{
     border: 1px solid black;
