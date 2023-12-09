@@ -78,7 +78,6 @@ align-items: center
     background-color: blue;
     color: white;
     text-align: center;
-    justify-content: flex-start;
     align-items: center;
 }
 .tbody{
@@ -86,6 +85,4 @@ align-items: center
     text-align: center;
     vertical-align: middle;
     justify-content: space-around;
-}
-    
 }
