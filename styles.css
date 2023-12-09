@@ -70,6 +70,7 @@ align-items: center
 .table{
     width: 960px;
     justify-content: space-around;
+    align-items: center;
     border-collapse: collapse;
 }
 .thead{
