@@ -89,3 +89,6 @@ align-items: center
 .td , th{
     border: 1px solid black;
 }
+.td tb{
+    border: 1px solid black;
+}
