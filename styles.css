@@ -69,14 +69,18 @@ align-items: center
 }
 .table{
     width: 960px;
+    border-collapse: collapse;
 }
 .thead{
     border: 1px solid black;
     background-color: blue;
     color: white;
+    text-align: center;
 }
 .tbody{
     border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
 }
     
 }
