@@ -69,6 +69,7 @@ align-items: center
 }
 .table{
     width: 960px;
+    justify-content: space-around;
     border-collapse: collapse;
 }
 .thead{
