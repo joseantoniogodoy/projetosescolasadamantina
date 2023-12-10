@@ -71,6 +71,7 @@ align-items: center
     width: 960px;
     align-items: center;
     border-collapse: collapse;
+    border: 5px solid #51025a;
 }
 .td{
     border: 1px solid black;
