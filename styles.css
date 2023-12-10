@@ -72,7 +72,7 @@ align-items: center
     border-collapse: collapse;
     border: 5px solid #51025a;
 }
-.td{
+.td, th {
     border: 1px solid black;
     text-align: center;
     vertical-align: middle;
