@@ -85,8 +85,8 @@ thead{
     text-align: center;
     border-collapse: collapse;
 }
-.tbody{
-    border: 1px solid black;
+tbody{
+    border: 1px solid #51025a;
     text-align: center;
     vertical-align: middle;
     justify-content: space-around;
