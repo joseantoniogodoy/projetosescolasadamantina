@@ -90,12 +90,6 @@ align-items: center
     vertical-align: middle;
     justify-content: space-around;
 }
-.td , th{
-    border: 1px solid black;
-}
-.td , tb{
-    border: 1px solid black;
-}
 .rodape{
     background-color: black;
     text-align: center;
