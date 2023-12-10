@@ -78,7 +78,7 @@ td, th {
     vertical-align: middle;
 }
 thead{
-    border: 1px solid black;
+    border: 1px solid #51025a;
     background-color: blue;
     color: white;
     text-align: center;
